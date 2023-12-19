@@ -1,0 +1,17 @@
+{
+    "MaxConnections": 1,
+    "TimePeriod": 10,
+    "BufferSize": 1024,
+    "Servers": [
+        {
+            "Ip": "127.0.0.1",
+            "Port": 2222,
+            "Timeout": 10
+        },
+        {
+            "Ip": "128.0.0.1",
+            "Port": 1111,
+            "Timeout": 10
+        }
+    ]
+}
